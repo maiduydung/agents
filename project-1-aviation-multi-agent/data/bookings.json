@@ -1,0 +1,172 @@
+[
+  {
+    "flight_id": "VJ101",
+    "total_seats": 230,
+    "booked_seats": 212,
+    "load_factor": 0.922,
+    "revenue_usd": 34580,
+    "avg_fare_usd": 163.11,
+    "booking_classes": {
+      "economy": {"seats": 190, "booked": 180, "avg_fare": 145.00},
+      "business": {"seats": 40, "booked": 32, "avg_fare": 389.00}
+    },
+    "ancillary_revenue_usd": 4200,
+    "no_show_rate": 0.03,
+    "cancellation_rate": 0.05,
+    "booking_date_distribution": {
+      "0_7_days": 0.35,
+      "8_14_days": 0.25,
+      "15_30_days": 0.22,
+      "31_plus_days": 0.18
+    }
+  },
+  {
+    "flight_id": "VN302",
+    "total_seats": 305,
+    "booked_seats": 287,
+    "load_factor": 0.941,
+    "revenue_usd": 62150,
+    "avg_fare_usd": 216.55,
+    "booking_classes": {
+      "economy": {"seats": 231, "booked": 225, "avg_fare": 178.00},
+      "premium_economy": {"seats": 42, "booked": 38, "avg_fare": 295.00},
+      "business": {"seats": 32, "booked": 24, "avg_fare": 520.00}
+    },
+    "ancillary_revenue_usd": 8900,
+    "no_show_rate": 0.02,
+    "cancellation_rate": 0.04,
+    "booking_date_distribution": {
+      "0_7_days": 0.40,
+      "8_14_days": 0.28,
+      "15_30_days": 0.20,
+      "31_plus_days": 0.12
+    }
+  },
+  {
+    "flight_id": "VJ203",
+    "total_seats": 180,
+    "booked_seats": 95,
+    "load_factor": 0.528,
+    "revenue_usd": 11400,
+    "avg_fare_usd": 120.00,
+    "booking_classes": {
+      "economy": {"seats": 150, "booked": 82, "avg_fare": 105.00},
+      "business": {"seats": 30, "booked": 13, "avg_fare": 280.00}
+    },
+    "ancillary_revenue_usd": 1800,
+    "no_show_rate": 0.06,
+    "cancellation_rate": 0.08,
+    "booking_date_distribution": {
+      "0_7_days": 0.20,
+      "8_14_days": 0.18,
+      "15_30_days": 0.30,
+      "31_plus_days": 0.32
+    }
+  },
+  {
+    "flight_id": "VN510",
+    "total_seats": 274,
+    "booked_seats": 251,
+    "load_factor": 0.916,
+    "revenue_usd": 55720,
+    "avg_fare_usd": 221.99,
+    "booking_classes": {
+      "economy": {"seats": 206, "booked": 198, "avg_fare": 185.00},
+      "premium_economy": {"seats": 36, "booked": 31, "avg_fare": 310.00},
+      "business": {"seats": 32, "booked": 22, "avg_fare": 495.00}
+    },
+    "ancillary_revenue_usd": 7200,
+    "no_show_rate": 0.03,
+    "cancellation_rate": 0.04,
+    "booking_date_distribution": {
+      "0_7_days": 0.32,
+      "8_14_days": 0.30,
+      "15_30_days": 0.23,
+      "31_plus_days": 0.15
+    }
+  },
+  {
+    "flight_id": "BL715",
+    "total_seats": 180,
+    "booked_seats": 162,
+    "load_factor": 0.900,
+    "revenue_usd": 22680,
+    "avg_fare_usd": 140.00,
+    "booking_classes": {
+      "economy": {"seats": 180, "booked": 162, "avg_fare": 140.00}
+    },
+    "ancillary_revenue_usd": 3500,
+    "no_show_rate": 0.04,
+    "cancellation_rate": 0.06,
+    "booking_date_distribution": {
+      "0_7_days": 0.45,
+      "8_14_days": 0.22,
+      "15_30_days": 0.18,
+      "31_plus_days": 0.15
+    }
+  },
+  {
+    "flight_id": "VJ888",
+    "total_seats": 230,
+    "booked_seats": 198,
+    "load_factor": 0.861,
+    "revenue_usd": 29700,
+    "avg_fare_usd": 150.00,
+    "booking_classes": {
+      "economy": {"seats": 190, "booked": 168, "avg_fare": 132.00},
+      "business": {"seats": 40, "booked": 30, "avg_fare": 345.00}
+    },
+    "ancillary_revenue_usd": 5100,
+    "no_show_rate": 0.03,
+    "cancellation_rate": 0.05,
+    "booking_date_distribution": {
+      "0_7_days": 0.38,
+      "8_14_days": 0.26,
+      "15_30_days": 0.21,
+      "31_plus_days": 0.15
+    }
+  },
+  {
+    "flight_id": "VN126",
+    "total_seats": 305,
+    "booked_seats": 278,
+    "load_factor": 0.911,
+    "revenue_usd": 125100,
+    "avg_fare_usd": 450.00,
+    "booking_classes": {
+      "economy": {"seats": 231, "booked": 218, "avg_fare": 380.00},
+      "premium_economy": {"seats": 42, "booked": 36, "avg_fare": 620.00},
+      "business": {"seats": 32, "booked": 24, "avg_fare": 1250.00}
+    },
+    "ancillary_revenue_usd": 12500,
+    "no_show_rate": 0.02,
+    "cancellation_rate": 0.03,
+    "booking_date_distribution": {
+      "0_7_days": 0.28,
+      "8_14_days": 0.25,
+      "15_30_days": 0.27,
+      "31_plus_days": 0.20
+    }
+  },
+  {
+    "flight_id": "VJ450",
+    "total_seats": 230,
+    "booked_seats": 145,
+    "load_factor": 0.630,
+    "revenue_usd": 18850,
+    "avg_fare_usd": 130.00,
+    "booking_classes": {
+      "economy": {"seats": 190, "booked": 128, "avg_fare": 115.00},
+      "business": {"seats": 40, "booked": 17, "avg_fare": 310.00}
+    },
+    "ancillary_revenue_usd": 2800,
+    "no_show_rate": 0.05,
+    "cancellation_rate": 0.07,
+    "booking_date_distribution": {
+      "0_7_days": 0.22,
+      "8_14_days": 0.20,
+      "15_30_days": 0.28,
+      "31_plus_days": 0.30
+    }
+  }
+]
